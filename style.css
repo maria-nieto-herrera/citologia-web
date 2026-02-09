@@ -192,10 +192,10 @@ body {
 }
 /* ====== ESTILO "PDF" (para páginas de trabajos) ====== */
 .pdf-page {
-  background: #ffffff;
-  border-radius: 14px;
-  padding: 34px 34px;
-  box-shadow: 0px 6px 15px rgba(0,0,0,0.08);
+  background: transparent;
+  padding: 30px;
+  border-radius: 0;
+  box-shadow: none;
 }
 
 .pdf-title {
